@@ -1,0 +1,10 @@
+G:\OOp\Platform_Game\bin\Debug\Platform_Game.exe.config
+G:\OOp\Platform_Game\bin\Debug\Platform_Game.exe
+G:\OOp\Platform_Game\bin\Debug\Platform_Game.pdb
+G:\OOp\Platform_Game\obj\Debug\Platform_Game.csproj.AssemblyReference.cache
+G:\OOp\Platform_Game\obj\Debug\Platform_Game.Form1.resources
+G:\OOp\Platform_Game\obj\Debug\Platform_Game.Properties.Resources.resources
+G:\OOp\Platform_Game\obj\Debug\Platform_Game.csproj.GenerateResource.cache
+G:\OOp\Platform_Game\obj\Debug\Platform_Game.csproj.CoreCompileInputs.cache
+G:\OOp\Platform_Game\obj\Debug\Platform_Game.exe
+G:\OOp\Platform_Game\obj\Debug\Platform_Game.pdb
